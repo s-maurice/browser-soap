@@ -7,7 +7,11 @@
   },
   "author": "Johniak <romaniakjan@gmail.com>",
   "dependencies": {
+    "buffer": "^5.0.8",
     "node-xml": "1.0.2"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4"
   },
   "repository": {
     "type": "git",
