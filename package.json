@@ -7,6 +7,7 @@
   },
   "author": "Johniak <romaniakjan@gmail.com>",
   "dependencies": {
+    "bna": "^2.0.5",
     "buffer": "^5.0.8",
     "node-xml": "1.0.2"
   },
@@ -22,7 +23,7 @@
     "lib": "./lib"
   },
   "scripts": {
-    "build": "bna -f index.js && uglifyjs index.fused.js -c -m > browser-soap-min.js && rm index.fused.js"
+    "build": "bna -f index.js && uglifyjs index.fused.js -c -m > browser-soap-min.js"
   },
   "keywords": [
     "soap",
