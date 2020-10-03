@@ -7,13 +7,13 @@
   },
   "author": "Johniak <romaniakjan@gmail.com>",
   "dependencies": {
-    "bna": "^2.0.5",
     "buffer": "^5.0.8",
-    "node-xml": "git+https://github.com/adamski/node-xml.git",
-    "uglify-js": "^3.11.0"
+    "node-xml": "git+https://github.com/adamski/node-xml.git"
   },
   "devDependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "uglify-js": "^3.11.0",
+    "bna": "^2.0.5"
   },
   "repository": {
     "type": "git",
