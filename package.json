@@ -9,7 +9,7 @@
   "dependencies": {
     "bna": "^2.0.5",
     "buffer": "^5.0.8",
-    "node-xml": "1.0.2",
+    "node-xml": "git+https://github.com/adamski/node-xml.git",
     "uglify-js": "^3.11.0"
   },
   "devDependencies": {
